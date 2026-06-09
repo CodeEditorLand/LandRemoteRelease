@@ -7,14 +7,36 @@ Creative Commons Attribution 4.0 License (International): https://creativecommon
 
 # Visual Studio Code Remote Development
 
-<table style="width: 100%; border-style: none;"><tr>
-<td style="width: 140px; text-align: center;"><a href="https://aka.ms/vscode-remote/download/extension"><img width="128px" src="docs/images/remote-extensionpack.png" alt="Visual Studio Code logo"/></a></td>
-<td>
-<strong>Visual Studio Code Remote Development</strong><br />
-<i>Open any folder in a container, on a remote machine, or in WSL and take advantage of VS Code's full feature set. <strong><a href="https://aka.ms/vscode-remote">Learn more!</a></strong><br />
-<strong><a href="https://aka.ms/vscode-remote/download/extension"><img src="docs/images/download.png" alt="Download now!"/></a></strong></i><br>
-</td>
-</tr></table>
+<table style="width: 100%; border-style: none;">
+	<tr>
+		<td style="width: 140px; text-align: center;">
+			<a href="https://aka.ms/vscode-remote/download/extension">
+				<img width="128px" src="docs/images/remote-extensionpack.png" alt="Visual Studio Code logo" />
+			</a>
+		</td>
+		<td>
+			<strong>
+				Visual Studio Code Remote Development
+			</strong>
+			<br />
+			<i>
+				Open any folder in a container, on a remote machine, or in WSL and take advantage of VS Code's full feature set.
+				<strong>
+					<a href="https://aka.ms/vscode-remote">
+						Learn more!
+					</a>
+				</strong>
+				<br />
+				<strong>
+					<a href="https://aka.ms/vscode-remote/download/extension">
+						<img src="docs/images/download.png" alt="Download now!" />
+					</a>
+				</strong>
+			</i>
+			<br />
+		</td>
+	</tr>
+</table>
 
 This repository is for providing feedback on the **[Visual Studio Remote Development](https://aka.ms/vscode-remote/download/extension)** extension pack and its related extensions. You can use the repository to report issues or submit feature requests on any of these extensions:
 
